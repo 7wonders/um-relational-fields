@@ -101,7 +101,7 @@ class PP_Fields {
 			)
 		);
 
-		$sections[] = array(
+		$sections['sections'] = array(
 
 			'icon'       => 'um-faicon-exchange',
 			'title'      => __( 'Field Relationships', 'pp-fields' ),
